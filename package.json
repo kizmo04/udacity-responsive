@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kizmo04/udacity.git"
+    "url": "git+https://github.com/kizmo04/udacity-responsive.git"
   },
   "author": "Joonmo Kim <get.kizmo@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kizmo04/udacity/issues"
+    "url": "https://github.com/kizmo04/udacity-responsive/issues"
   },
-  "homepage": "https://github.com/kizmo04/udacity#readme"
+  "homepage": "https://github.com/kizmo04/udacity-responsive#readme"
 }
